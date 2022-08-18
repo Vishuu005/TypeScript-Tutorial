@@ -8,7 +8,7 @@ Based on [Top Deep Learning](http://github.com/mbadry1/Top-Deep-Learning)<br /><
 Here is a list of the top-200 TypeScript-Tutorial By Vishal Pandey repositories sorted by the number of stars.
 The query that has been used for the GitHub search API is "TypeScript".
 <br /><br />
-Date: 03/16/2018
+Date: 18/08/2022
 <br /><br />
 Note: This listing will be updated regularly.
 <br /><br />
